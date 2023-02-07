@@ -1,0 +1,17 @@
+HTTP1:
+
+Usually works on textual format
+Line blocking in which TCP connection is blocked all other requests until the response does not receive. 
+All the information related to the header file is repeated in every request
+
+HTTP2:
+
+Usually works on binary format
+It allows multiplexing so one TCP connection is required for multiple requests.
+
+Objects
+objects contains combination of datatypes (reference datatypes)
+
+Object  has its own properties and methods.
+
+use dot operator for accessing object key values.
