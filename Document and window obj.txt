@@ -1,0 +1,4 @@
+A document is an object inside the window object.
+The first thing that gets loaded into the browser is the window and the properties related to that window are stored in the window object. Properties related to window objects are length, innerWidth, innerHeight, caches, etc.
+After the window gets loaded then there’s a document (HTML, PHP, or another document) loaded inside that window, and the properties related to that document is stored in the document object.
+Properties related to document objects are CSS, HTML, etc.
