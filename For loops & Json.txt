@@ -1,0 +1,30 @@
+let x=userInput[0].split("")
+
+for (let i = 0; i < x.length; i++) {
+    console.log(array[i]);
+}
+
+let person = {x:"colour", y:"is", z:white};
+
+let text = "";
+for (let x in person) {
+  text += person[x];
+}
+
+let cars = ["BMW", "benz", "MG"];
+
+let text = "";
+for (let x of cars) {
+  text += x;
+}
+
+let sum = 0;
+const numbers = [1, 2, 3, 4];
+numbers.forEach(myFunction);
+
+function myFunction(item) {
+  sum += item;
+}
+
+let resume = {Name:"chandru
+Age:30, Education:"B.E", Years of Exp:8};
